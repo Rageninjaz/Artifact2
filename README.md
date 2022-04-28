@@ -1,3 +1,3 @@
-# Artifact2
+# Blue Server Plugin
 
-Custom Plugin Quests for Minecraft Server
+Custom Quests Plugin for Minecraft Server
