@@ -1,0 +1,17 @@
+name: customBlue
+version: 1.0
+author: akbrr
+main: com.akbr.customBlue.customBlue
+api-version: 1.16.5
+depend: []
+commands:
+   hat:
+      description: Main Command
+      aliases: [h]
+permissions:
+   hat.all:
+      description: Gives access to all hats
+      children:
+         hat.name1: true
+   hat.name1:
+      default: false
